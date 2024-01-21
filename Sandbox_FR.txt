@@ -1,0 +1,9 @@
+Sandbox_FR = {
+    Sandbox_MedicineMoodles = "Medicine Moodles",
+    Sandbox_MedicineMoodles_Antibiotics_Doctor = "Les antibiotiques nécessitent les premiers soins",
+    Sandbox_MedicineMoodles_Antidepressants_Doctor = "Les antidépresseurs nécessitent les premiers soins",
+    Sandbox_MedicineMoodles_BetaBlockers_Doctor = "Les bêta-bloquants nécessitent les premiers soins",
+    Sandbox_MedicineMoodles_Painkillers_Doctor = "Les analgésiques nécessitent les premiers soins",
+    Sandbox_MedicineMoodles_SleepingTablets_Doctor = "Les somnifères nécessitent les premiers soins",
+    Sandbox_MedicineMoodles_LemonGrass_Doctor = "La citronnelle nécessite les premiers soins",
+}
